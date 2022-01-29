@@ -58,4 +58,5 @@ If you have any questions feel free to take a look at my [GitHub](https://github
 ![Picture](https://github.com/smalone9.png?size=100) [Samantha Malone](https://github.com/smalone9) 
 ![Picture](https://github.com/jlentz17.png?size=100) [Jeremy Lentz](https://github.com/jlentz17)
 
-&copy; 2021 CodeJAM
+2021 CodeJAM
+NOTE: Presented by Samantha Malone at 2U Demo Day Jan. 2022
